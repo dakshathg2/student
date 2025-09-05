@@ -12,13 +12,7 @@
 }
 ,
 
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "build:dev": "vite build --mode development",
-    "lint": "eslint .",
-    "preview": "vite preview"
-  },
+  
  
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
@@ -82,10 +76,9 @@
     "eslint": "^9.32.0",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
-<<<<<<< HEAD
+
     "gh-pages": "^6.3.0",
-=======
->>>>>>> 425e091dde8dc2ebcabc530dfc3a94f6f5b0582e
+
     "globals": "^15.15.0",
     "lovable-tagger": "^1.1.9",
     "postcss": "^8.5.6",
